@@ -1,0 +1,9 @@
+/* .covers {
+    min-height: max-content;
+} */
+
+.cover {
+    filter: brightness(50%);
+
+
+}
